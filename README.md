@@ -1,10 +1,10 @@
 <p align="center">
   <br/>
 
-  <h3 align="center">Galaxy Design</h3>
+  <h3 align="center">Galaxy Design Repository</h3>
 
   <p align="center">
-    Galaxy Design
+    A repository for all things visual
     <br/>
     <a href="http://galaxy.ooo"><strong>galaxy.ooo</strong></a>
     <br/>
