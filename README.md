@@ -8,19 +8,10 @@ Join us in the journey by becoming a design contributor
 
 ## Table of contents
 
-- [Contribute](#contribute)
 - [Install & Setup Git LFS](#install-&-setup-git-lfs)
 - [Brand](#brand)
 - [Quick Links](#quick-links)
 - [Open Source Design](#open-source-design)
-
-## Contribute
-
-- [Contribute](/docs/contribute/README.md)
-  - [Open Source Design & design process](https://github.com/blockstack/designs/issues/267)
-  - [Blockstack Brand Guide](https://github.com/blockstack/designs/issues/247)
-  - [Blockstack Design System](https://github.com/blockstack/design-system)  
-    - [Documentation (Wiki)](https://github.com/blockstack/design-system/wiki)
 
 ## Install & Setup Git LFS
 
