@@ -1,4 +1,20 @@
-# Galaxy Design
+<p align="center">
+  <br/>
+
+  <h3 align="center">Galaxy Design</h3>
+
+  <p align="center">
+    Galaxy Design
+    <br/>
+    <a href="http://galaxy.ooo"><strong>galaxy.ooo</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/galaxypi/">Explore</a>
+  </p>
+</p>
+
+<br/>
+
 
 Galaxy Design is an open source design cooperative led by designers, developers, writers and enthusiasts of the Galaxy Pi community and decentralized internet movement. We are working hard at building a more open and beautiful internet in a collaborative manner.
 
