@@ -30,7 +30,7 @@ Join us in the journey by becoming a design contributor
 - [Open Source Design](#open-source-design)
 
 <div align="right">
-    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
+    <b><a href="#table-of-contents">^ back to top</a></b>
 </div>
 
 ## Install & Setup Git LFS
@@ -40,7 +40,7 @@ Galaxy Design uses Git LFS, an easy to setup and use tool for versioning design 
 [› Install & Setup Galaxy Design Git LFS](/docs/git-lfs.md)
 
 <div align="right">
-    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
+    <b><a href="#table-of-contents">^ back to top</a></b>
 </div>
 
 ## Brand
@@ -51,7 +51,7 @@ Galaxy Design uses Git LFS, an easy to setup and use tool for versioning design 
   - Icons
 
 <div align="right">
-    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
+    <b><a href="#table-of-contents">^ back to top</a></b>
 </div>
 
 ## Quick links
@@ -59,7 +59,7 @@ Galaxy Design uses Git LFS, an easy to setup and use tool for versioning design 
 - [Galaxy GitHub](https://github.com/galaxypi/)
 
 <div align="right">
-    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
+    <b><a href="#table-of-contents">^ back to top</a></b>
 </div>
 
 ## Open Source Design
