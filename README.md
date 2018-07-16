@@ -19,12 +19,16 @@
     </a>
     &nbsp;&middot;&nbsp;
     <a href="https://github.com/galaxypi/galaxy-design">
-      <img src="https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&maxAge=2592000" alt="GitHUb Stars">
+      <img src="https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars" alt="GitHub Stars">
     </a>
   </p>
 </p>
 
 <br/>
+
+
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)](https://www.github.com/galaxypi/galaxy-design/)
+
 
 
 Galaxy Design is an open source design cooperative led by designers, developers, writers and enthusiasts of the Galaxy Pi community and decentralized internet movement. We are working hard at building a more open and beautiful internet in a collaborative manner.
