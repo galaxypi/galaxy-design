@@ -15,12 +15,16 @@
     <br/>
     <br/>
     <a href="https://twitter.com/intent/follow?screen_name=galaxypilab">
-      <img src="https://img.shields.io/twitter/url/https/twitter.com/galaxypilab.svg?style=social&label=Follow%20%40galaxypilab&logo=twitter" alt="Follow on Twitter">
+      <img src="https://img.shields.io/twitter/follow/galaxypilab.svg?style=social&label=Follow&maxAge=2592000" alt="Follow on Twitter">
     </a>
     &nbsp;&middot;&nbsp;
     <a href="https://github.com/galaxypi/galaxy-design">
       <img src="https://img.shields.io/github/stars/galaxypi/galaxy-design.svg?style=social&label=Stars&maxAge=2592000" alt="GitHub Stars">
     </a>
+    &nbsp;&middot;&nbsp;
+    <p>
+      <img src="https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/" alt="Open Source">
+    </p>
   </p>
 </p>
 
