@@ -29,19 +29,11 @@ Join us in the journey by becoming a design contributor
 - [Quick Links](#quick-links)
 - [Open Source Design](#open-source-design)
 
-<div align="right">
-    <b><a href="#table-of-contents">^ back to top</a></b>
-</div>
-
 ## Install & Setup Git LFS
 
 Galaxy Design uses Git LFS, an easy to setup and use tool for versioning design and large files. Follow the instructions in the link below to install & setup Git LFS in order to track files for contributing.
 
 [› Install & Setup Galaxy Design Git LFS](/docs/git-lfs.md)
-
-<div align="right">
-    <b><a href="#table-of-contents">^ back to top</a></b>
-</div>
 
 ## Brand
   - Logo
@@ -50,75 +42,14 @@ Galaxy Design uses Git LFS, an easy to setup and use tool for versioning design 
   - Illustrations
   - Icons
 
-<div align="right">
-    <b><a href="#table-of-contents">^ back to top</a></b>
-</div>
-
 ## Quick links
 - [galaxy.ooo](http://galaxy.ooo)
 - [Galaxy GitHub](https://github.com/galaxypi/)
 
-<div align="right">
-    <b><a href="#table-of-contents">^ back to top</a></b>
-</div>
-
 ## Open Source Design
 
-The following is the current Galaxy Design Process for branding, component design and brand iteration. These 3 processes are created with simplicity, speed and fluidity in mind.
+At Galaxy we try our best to be as transparent and open as possible. One initiative that we are implementing is Open Source Design.
 
-_**NOTE**: *asterisk represents a community review_
+Learn more about our design process and take part in the discussion.
 
-### Brand design process
-
-1. Requirement capture
-    - Brand problem(s)
-    - Brand solution(s)
-    - Brand goal(s)
-    - List of possible brand use cases. (i.e. website, ios app, video, etc.)
-2. Creative brief
-3. Mood board & design discovery
-4. *Design
-    - Logo
-    - Color - including color strategy in relation to brand
-    - Typography
-    - Hero concepts
-    - Illustration & icon compositions
-5. *Prototype in InVision
-6. *Review
-7. Presentation
-8. Adjustments
-9. Finalize
-
-### Component based design process
-Utilizes brand requirement capture and creative briefing in order to keep brand consistency.
-
-1. Requirement capture
-    - Component problem(s)
-    - Component solution(s)
-    - Component goal(s)
-    - List of features or possible features
-    - Functionality
-2. Mood board & design discovery
-4. *Design
-5. *Prototype in InVision
-6. *Brand review
-7. *UI build
-8. Test & ui sign-off
-9. Push
-10. Add new component(s) to design system
-
-### Iteration of brand process
-
-1. Identify issue
-    - List what's working/not working and why
-    - Identify possible solution(s)
-2. Review brand goal(s)
-3. Mood board & design discovery
-4. *Design
-5. *Prototype in InVision
-6. *Review
-7. Devise strategy & schedule for roll-out
-8. Update brand requirement capture & creative brief
-9. Update design system & design files
-10. Execute
-
+[› Learn more](/docs/open-source-design.md)
