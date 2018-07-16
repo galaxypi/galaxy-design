@@ -2,6 +2,10 @@
 
 Galaxy Design uses Git LFS, an easy to setup and use tool for versioning design and large files. Follow the instructions in the link below to install & setup Git LFS in order to track files for contributing.
 
+<div align="right">
+    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
+</div>
+
 ### Install Git LFS (global)
 
 In order to use Git LFS and install it on each of the repositories that you'd like to use Git LFS, you first have to execute a global Homebrew or MacPorts install
@@ -9,14 +13,22 @@ In order to use Git LFS and install it on each of the repositories that you'd li
 - Homebrew: `brew install git-lfs`
 - MacPorts: `port install git-lfs`
 
+<div align="right">
+    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
+</div>
+
 ## Getting Started
 
 The following list of instructions is required for each repository that uses Git LFS.
 
 - [Install Git LFS](#install-git-lfs)
 - [Initialize Tracking](#initialize-tracking)
-- [Apply Git Attributes](#apply-git-attributes)
+- [Git Attributes](#git-attributes)
 - [How to Use](#how-to-use)
+
+<div align="right">
+    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
+</div>
 
 ## Install Git LFS
 
@@ -32,7 +44,11 @@ In order for Git LFS to manage files, we need to initialize tracking which will 
 git lfs track "*.psd"
 ```
 
-## Apply Git Attributes
+<div align="right">
+    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
+</div>
+
+## Git Attributes
 
 We could track each file one at a time by using the Git LFS CLI process above or we could apply all file types.
 
@@ -125,6 +141,10 @@ Copy the following list, paste them into the .gitattributes file, then save and 
 *.key filter=lfs diff=lfs merge=lfs -text
 ```
 
+<div align="right">
+    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
+</div>
+
 ## How to Use
 
 Now that we've installed Git LFS just commit and push to GitHub as you normally would.
@@ -134,6 +154,10 @@ git add file.psd
 git commit -m "Add design file"
 git push origin master
 ```
+
+<div align="right">
+    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
+</div>
 
 ----
 
