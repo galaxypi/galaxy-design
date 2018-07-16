@@ -19,7 +19,7 @@
     </a>
     &nbsp;&middot;&nbsp;
     <a href="https://github.com/galaxypi/galaxy-design">
-      <img src="https://img.shields.io/github/url/https/github.com/galaxypi/galaxy-design/stargazers.svg?style=social&label=Stars" alt="GitHUb Stars">
+      <img src="https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&maxAge=2592000" alt="GitHUb Stars">
     </a>
   </p>
 </p>
