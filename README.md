@@ -1,7 +1,7 @@
 <p align="center">
   <br/>
 
-  <h3 align="center">Galaxy Design Repository</h3>
+  <h3 align="center">Galaxy Design</h3>
 
   <p align="center">
     A repository for all things visual
@@ -9,6 +9,8 @@
     <a href="http://galaxy.ooo"><strong>galaxy.ooo</strong></a>
     <br/>
     <br/>
+    <a href="https://github.com/galaxypi/galaxy-design#contributing">Contribute</a>
+    &middot;
     <a href="https://github.com/galaxypi/">Explore</a>
   </p>
 </p>
