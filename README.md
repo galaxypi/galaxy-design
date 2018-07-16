@@ -19,7 +19,7 @@
     </a>
     &nbsp;&middot;&nbsp;
     <a href="https://github.com/galaxypi/galaxy-design">
-      <img src="https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars" alt="Star on GitHub">
+      <img src="https://img.shields.io/github/url/https/github.com/galaxypi/galaxy-design.svg?style=social&label=Stars" alt="GitHUb Stars">
     </a>
   </p>
 </p>
