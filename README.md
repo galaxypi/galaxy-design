@@ -24,7 +24,7 @@ Join us in the journey by becoming a design contributor
 
 ## Table of contents
 
-- [Install & Setup Git LFS](#install-setup-git-lfs)
+- [Install & Setup Git LFS](#install--setup-git-lfs)
 - [Brand](#brand)
 - [Quick Links](#quick-links)
 - [Open Source Design](#open-source-design)
