@@ -4,7 +4,7 @@ Galaxy Design uses Git LFS, an easy to setup and use tool for versioning design 
 
 #### Install Git LFS (global)
 
-In order to use Git LFS and install it on each of the repositories that you'd like to use Git LFS, you first have to execute a global Homebrew or MacPorts install
+In order to use Git LFS and install it on each of the repositories that you'd like to use Git LFS, you first have to execute a global Homebrew or MacPorts install.
 
 - Homebrew: `brew install git-lfs`
 - MacPorts: `port install git-lfs`
@@ -38,7 +38,7 @@ git lfs install
 
 ## Initialize Tracking
 
-In order for Git LFS to manage files, we need to initialize tracking which will automatically create a `.gitattributes` file in the root of the repository. Let' initialize tracking by tracking a `.psd` file.
+In order for Git LFS to manage files, we need to initialize tracking which will automatically create a `.gitattributes` file in the root of the repository. Let's initialize tracking by tracking the `.psd` file extension.
 
 ```
 git lfs track "*.psd"
@@ -50,7 +50,7 @@ git lfs track "*.psd"
 
 ## Git Attributes
 
-We could track each file one at a time by using the Git LFS CLI process above or we could apply all file types.
+We could track each file one at a time by using the Git LFS tracking method above. But let's track all files by executing the following...
 
 Open your `.gitattributes` file.
 
@@ -58,7 +58,7 @@ Open your `.gitattributes` file.
 open .gitattributes
 ```
 
-Copy the following list, paste them into the .gitattributes file, then save and close the file.
+Copy the tracking list below, paste it into .gitattributes, save and close the file.
 
 ```
 *.psd filter=lfs diff=lfs merge=lfs -text
