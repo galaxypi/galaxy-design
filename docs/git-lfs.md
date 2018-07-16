@@ -1,4 +1,4 @@
-# Install & Setup Git LFS
+## Install & Setup Git LFS
 
 Galaxy Design uses Git LFS, an easy to setup and use tool for versioning design and large files. Follow the instructions in the link below to install & setup Git LFS in order to track files for contributing.
 
@@ -9,10 +9,6 @@ In order to use Git LFS and install it on each of the repositories that you'd li
 - Homebrew: `brew install git-lfs`
 - MacPorts: `port install git-lfs`
 
-<div align="right">
-    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
-</div>
-
 ## Getting Started
 
 The following list of instructions is required for each repository that uses Git LFS.
@@ -22,19 +18,11 @@ The following list of instructions is required for each repository that uses Git
 - [Git Attributes](#git-attributes)
 - [How to Use](#how-to-use)
 
-<div align="right">
-    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
-</div>
-
 ## Install Git LFS
 
 ```
 git lfs install
 ```
-
-<div align="right">
-    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
-</div>
 
 ## Initialize Tracking
 
@@ -43,10 +31,6 @@ In order for Git LFS to manage files, we need to initialize tracking which will 
 ```
 git lfs track "*.psd"
 ```
-
-<div align="right">
-    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
-</div>
 
 ## Git Attributes
 
@@ -141,10 +125,6 @@ Copy the tracking list below, paste it into .gitattributes, save and close the f
 *.key filter=lfs diff=lfs merge=lfs -text
 ```
 
-<div align="right">
-    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
-</div>
-
 ## How to Use
 
 Now that we've installed Git LFS just commit and push to GitHub as you normally would.
@@ -162,7 +142,3 @@ git push origin master
 ----
 
 [›› More info about Git LFS](https://git-lfs.github.com/)
-
-<div align="right">
-    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
-</div>
