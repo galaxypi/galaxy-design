@@ -18,8 +18,8 @@
       <img src="https://img.shields.io/twitter/url/https/twitter.com/galaxypilab.svg?style=social&label=Follow%20%40galaxypilab&logo=twitter" alt="follow on Twitter">
     </a>
     &nbsp;&middot;&nbsp;
-    <a href="https://github.com/galaxypi">
-      <img src="https://img.shields.io/github/followers/galaxypi.svg?style=social&label=Follow&logo=github" alt="follow on GitHub">
+    <a href="https://github.com/galaxypi/galaxy-design">
+      <img src="https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars" alt="follow on GitHub">
     </a>
   </p>
 </p>
