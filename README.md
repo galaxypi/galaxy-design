@@ -33,7 +33,7 @@ Join us in the journey by becoming a design contributor
 
 Galaxy Design uses Git LFS, an easy to setup and use tool for versioning design and large files. Follow the instructions in the link below to install & setup Git LFS in order to track files for contributing.
 
-[› Install & Setup Galaxy Design Git LFS](/docs/install-setup-git-lfs.md)
+[› Install & Setup Galaxy Design Git LFS](/docs/git-lfs.md)
 
 ## Brand
   - Logo
