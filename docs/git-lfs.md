@@ -32,6 +32,10 @@ The following list of instructions is required for each repository that uses Git
 git lfs install
 ```
 
+<div align="right">
+    <b><a href="#install--setup-git-lfs">^ back to top</a></b>
+</div>
+
 ## Initialize Tracking
 
 In order for Git LFS to manage files, we need to initialize tracking which will automatically create a `.gitattributes` file in the root of the repository. Let' initialize tracking by tracking a `.psd` file.
