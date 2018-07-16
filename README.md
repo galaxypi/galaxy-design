@@ -21,10 +21,6 @@
     <a href="https://github.com/galaxypi/galaxy-design/stargazers">
       <img src="https://img.shields.io/github/stars/galaxypi/galaxy-design.svg?style=social&label=Star&maxAge=2592000" alt="Star Repo">
     </a>
-    &nbsp;&middot;&nbsp;
-    <span>
-      <img src="https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/" alt="Open Source">
-    </span>
   </p>
 </p>
 
@@ -68,3 +64,9 @@ At Galaxy we try our best to be as transparent and open as possible. One initiat
 Learn more about our design process and take part in the discussion.
 
 [› Learn more](/docs/open-source-design.md)
+
+<div align="right">
+  <a href="https://opensource.guide/how-to-contribute/#why-contribute-to-open-source">
+    <img src="https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/" alt="Open Source">
+  </a>
+</div>
