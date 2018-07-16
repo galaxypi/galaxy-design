@@ -13,7 +13,7 @@ MacPorts: `port install git-lfs`
 
 The following list of instructions is required for each repository that uses Git LFS.
 
-- [Install Git LFS](#install-git-lfs-repository)
+- [Install Git LFS](#install-git-lfs)
 - [Initialize Tracking](#initialize-tracking)
 - [Apply Git Attributes](#apply-git-attributes)
 - [How to Use](#how-to-use)
@@ -134,6 +134,8 @@ git add file.psd
 git commit -m "Add design file"
 git push origin master
 ```
+
+----
 
 [›› More info about Git LFS](https://git-lfs.github.com/)
 
