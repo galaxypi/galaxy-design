@@ -53,7 +53,7 @@ Join us in the journey by becoming a design contributor
 - Web app design (In progress...)
 - Illustrated brand character (On hold)
 
-[![Galaxy Open Source Design](https://img.shields.io/badge/Galaxy-Open_Source_Design-brightgreen.svg?colorA=212121&colorB=00BB00)](/docs/open-source-design.md)
+[![Galaxy Open Source Design](https://img.shields.io/badge/Galaxy-Open_Source_Design-blue.svg?colorA=212121&colorB=007BFF)](/docs/open-source-design.md)
 [![Galaxy Chat](https://img.shields.io/badge/Galaxy_Chat-Discord-purple.svg?colorA=212121&colorB=7289da)](https://discord.gg/36K9nan)
 
 [![Galaxy Brand version](https://img.shields.io/badge/Galaxy_Brand-v0.0.5-brightgreen.svg?colorA=212121&colorB=00BB00)](/brand/)
@@ -61,9 +61,16 @@ Join us in the journey by becoming a design contributor
 [![Galaxy.ooo Design version](https://img.shields.io/badge/Galaxy.ooo_Design-v1.0.8-brightgreen.svg?colorA=212121&colorB=00BB00)](/galaxy.ooo/)
 [![Galaxy Illustrations](https://img.shields.io/badge/Galaxy-Illustrations-brightgreen.svg?colorA=212121&colorB=00BB00)](/illustrations/)
 [![Galaxy Social](https://img.shields.io/badge/Galaxy-Social-brightgreen.svg?colorA=212121&colorB=00BB00)](/social/)
-[![Bootstrap version](https://img.shields.io/badge/Bootstrap-v4.1.3-blue.svg?colorA=212121&colorB=007BFF)](http://getbootstrap.com/)
+
+[![Sketch (UI) Version](https://img.shields.io/badge/Sketch_(UI)-v51.2.0-blue.svg?colorA=212121&colorB=007BFF)](https://www.sketchapp.com/)
+[![InVision (UX) web app](https://img.shields.io/badge/InVision_(UX)-Web_App-blue.svg?colorA=212121&colorB=007BFF)](https://www.invision.com/)
+[![Adobe Photoshop (Imagery) Version](https://img.shields.io/badge/Adobe_Photoshop_(Imagery)-v19.1.6-blue.svg?colorA=212121&colorB=007BFF)](https://www.adobe.com/products/photoshop.html)
+[![Adobe Illustrator (Illustrations) Version](https://img.shields.io/badge/Adobe_Illustrator_(Illustrations)-v22.1.0-blue.svg?colorA=212121&colorB=007BFF)](https://www.adobe.com/products/illustrator.html)
+[![Adobe InDesign (Print) Version](https://img.shields.io/badge/Adobe_InDesign_(Print)-v13.1.0-blue.svg?colorA=212121&colorB=007BFF)](https://www.adobe.com/products/indesign.html)
+[![Bootstrap Version](https://img.shields.io/badge/Bootstrap-v4.1.3-blue.svg?colorA=212121&colorB=007BFF)](http://getbootstrap.com/)
 [![Bootsketch version](https://img.shields.io/badge/Bootsketch-v1.4.0-blue.svg?colorA=212121&colorB=007BFF)](https://www.bootsketch.com/)
 [![px-rem-reference version](https://img.shields.io/badge/PX--REM_Reference-v1.2.2-blue.svg?colorA=212121&colorB=007BFF)](https://www.npmjs.com/package/px-rem-reference)
+
 
 ## Install & Setup Git LFS
 
