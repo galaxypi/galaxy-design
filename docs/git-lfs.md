@@ -10,13 +10,20 @@ Galaxy Design uses Git LFS, an easy to setup and use tool for versioning design 
 - [Git Attributes](#git-attributes)
 - [How to Use](#how-to-use)
 
+
 ## Status
 
 [![Git LFS version](https://img.shields.io/badge/Git_LFS-v2.5.1-blue.svg?colorA=212121&colorB=007BFF)](https://git-lfs.github.com/)
 [![Galaxy Chat](https://img.shields.io/badge/Galaxy_Chat-Discord-purple.svg?colorA=212121&colorB=7289da)](https://discord.gg/36K9nan)
 
-[![Bootstrap version](https://img.shields.io/badge/Bootstrap-v4.1.3-blue.svg?colorA=212121&colorB=007BFF)](http://getbootstrap.com/)
-[![px-rem-reference version](https://img.shields.io/badge/PX--REM_Reference-v1.2.2-blue.svg?colorA=212121&colorB=007BFF)](https://www.npmjs.com/package/px-rem-reference)
+
+## Install Git LFS
+
+```
+git lfs install
+```
+
+Learn more about **Git LFS** by visiting the [Git Large File Storage (LFS) website](https://git-lfs.github.com/)
 
 
 #### Install Git LFS (global)
@@ -26,19 +33,6 @@ In order to use Git LFS and install it on each of the repositories that you'd li
 - Homebrew: `brew install git-lfs`
 - MacPorts: `port install git-lfs`
 
-## Getting Started
-
-The following list of instructions is required for each repository that uses Git LFS.
-
-
-
-## Install Git LFS
-
-```
-git lfs install
-```
-
-[›› More info about Git LFS](https://git-lfs.github.com/)
 
 ## Initialize Tracking
 
@@ -47,6 +41,7 @@ In order for Git LFS to manage files, we need to initialize tracking which will 
 ```
 git lfs track "*.psd"
 ```
+
 
 ## Git Attributes
 
