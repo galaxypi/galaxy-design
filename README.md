@@ -1,33 +1,37 @@
 <p align="center">
-  <br/>
 
   <h3 align="center">Galaxy Design</h3>
 
   <p align="center">
-    A repository for all things visual
+    Galaxy is a network of decentralized nodes offering services for
+    decentralized platforms
     <br/>
     <a href="http://galaxy.ooo"><strong>galaxy.ooo</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/galaxypi/galaxy-design#contributing">Contribute</a>
-    &middot;
+    <a href="/docs/CONTRIBUTING.md">Contribute</a>
+    &nbsp;&middot;&nbsp;
     <a href="https://github.com/galaxypi/">Explore</a>
+    &nbsp;&middot;&nbsp;
+    <a href="https://github.com/galaxypi/galaxy-growth/issues/new?template=issue-or-idea-report.md">
+    Report issue or idea</a>
+    &nbsp;&middot;&nbsp;
+    <a href="https://discord.gg/36K9nan">Chat</a>
     <br/>
     <br/>
     <a href="https://twitter.com/intent/follow?screen_name=galaxypilab">
-      <img src="https://img.shields.io/twitter/follow/galaxypilab.svg?style=social&label=Follow&maxAge=2592000" alt="Follow on Twitter">
+      <img src="https://img.shields.io/twitter/url/https/twitter.com/galaxypilab.svg?style=social&label=Follow%20%40galaxypilab&logo=twitter" alt="follow on Twitter">
     </a>
     &nbsp;&middot;&nbsp;
-    <a href="https://github.com/galaxypi/galaxy-design/stargazers">
-      <img src="https://img.shields.io/github/stars/galaxypi/galaxy-design.svg?style=social&label=Star&maxAge=2592000" alt="Star Repo">
+    <a href="https://github.com/galaxypi/galaxy-website/stargazers">
+      <img src="https://img.shields.io/github/stars/galaxypi/galaxy-website.svg?style=social&label=Star&maxAge=2592000" alt="Star Repo">
     </a>
   </p>
 </p>
 
 <br/>
 
-
-Galaxy Design is an open source design cooperative led by designers, developers, writers and enthusiasts of the Galaxy Pi community and decentralized internet movement. We are working hard at building a more open and beautiful internet in a collaborative manner.
+Galaxy Design is an open source design cooperative led by designers, developers, writers and enthusiasts of the Galaxy community and decentralized internet movement. We are working hard at building a more open and beautiful internet in a collaborative manner.
 
 Galaxy has members who are contributors to the [Open Source Design](https://github.com/opensourcedesign) community.
 
