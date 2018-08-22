@@ -39,10 +39,31 @@ Join us in the journey by becoming a design contributor
 
 ## Table of contents
 
+- [Status](#status)
 - [Install & Setup Git LFS](#install--setup-git-lfs)
 - [Brand](#brand)
 - [Quick Links](#quick-links)
 - [Open Source Design](#open-source-design)
+
+## Status
+
+- Quick Logo wordmark complete
+- Quick brand illustration complete
+- Website design (In progress...)
+- Web app design (In progress...)
+- Illustrated brand character (On hold)
+
+[![Galaxy Open Source Design](https://img.shields.io/badge/Galaxy-Open_Source_Design-brightgreen.svg?colorA=212121&colorB=00BB00)](/docs/open-source-design.md)
+[![Galaxy Chat](https://img.shields.io/badge/Galaxy_Chat-Discord-purple.svg?colorA=212121&colorB=7289da)](https://discord.gg/36K9nan)
+
+[![Galaxy Brand version](https://img.shields.io/badge/Galaxy_Brand-v0.0.5-brightgreen.svg?colorA=212121&colorB=00BB00)](/brand/)
+[![Galaxy Logo version](https://img.shields.io/badge/Galaxy_Logo-v0.1.0-brightgreen.svg?colorA=212121&colorB=00BB00)](/logo/)
+[![Galaxy.ooo Design version](https://img.shields.io/badge/Galaxy.ooo_Design-v1.0.8-brightgreen.svg?colorA=212121&colorB=00BB00)](/galaxy.ooo/)
+[![Galaxy Illustrations](https://img.shields.io/badge/Galaxy-Illustrations-brightgreen.svg?colorA=212121&colorB=00BB00)](/illustrations/)
+[![Galaxy Social](https://img.shields.io/badge/Galaxy-Social-brightgreen.svg?colorA=212121&colorB=00BB00)](/social/)
+[![Bootstrap version](https://img.shields.io/badge/Bootstrap-v4.1.3-blue.svg?colorA=212121&colorB=007BFF)](http://getbootstrap.com/)
+[![Bootsketch version](https://img.shields.io/badge/Bootsketch-v1.4.0-blue.svg?colorA=212121&colorB=007BFF)](https://www.bootsketch.com/)
+[![px-rem-reference version](https://img.shields.io/badge/PX--REM_Reference-v1.2.2-blue.svg?colorA=212121&colorB=007BFF)](https://www.npmjs.com/package/px-rem-reference)
 
 ## Install & Setup Git LFS
 
