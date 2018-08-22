@@ -63,7 +63,7 @@ Join us in the journey by becoming a design contributor
 [![Galaxy Social](https://img.shields.io/badge/Galaxy-Social-pink.svg?colorA=212121&colorB=F700D6)](/social/)
 
 [![Sketch (UI) Version](https://img.shields.io/badge/Sketch_(UI)-v51.2.0-blue.svg?colorA=212121&colorB=007BFF)](https://www.sketchapp.com/)
-[![InVision (UX) web app](https://img.shields.io/badge/InVision_(UX)-Web_App-blue.svg?colorA=212121&colorB=007BFF)](https://www.invision.com/)
+[![InVision (UX) web app](https://img.shields.io/badge/InVision_(UX)-Web_App-blue.svg?colorA=212121&colorB=007BFF)](https://www.invisionapp.com/)
 [![Adobe Photoshop (Imagery) Version](https://img.shields.io/badge/Adobe_Photoshop_(Imagery)-v19.1.6-blue.svg?colorA=212121&colorB=007BFF)](https://www.adobe.com/products/photoshop.html)
 [![Adobe Illustrator (Illustrations) Version](https://img.shields.io/badge/Adobe_Illustrator_(Illustrations)-v22.1.0-blue.svg?colorA=212121&colorB=007BFF)](https://www.adobe.com/products/illustrator.html)
 [![Adobe InDesign (Print) Version](https://img.shields.io/badge/Adobe_InDesign_(Print)-v13.1.0-blue.svg?colorA=212121&colorB=007BFF)](https://www.adobe.com/products/indesign.html)
