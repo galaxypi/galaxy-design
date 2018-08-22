@@ -47,8 +47,10 @@ Join us in the journey by becoming a design contributor
 
 ## Status
 
-- Quick Logo wordmark complete
-- Quick brand illustration complete
+- Quick Logo wordmark (Complete)
+- Typography (Complete)
+- Colors (Complete)
+- Quick brand illustration (Complete)
 - Website design (In progress...)
 - Web app design (In progress...)
 - Illustrated brand character (On hold)
