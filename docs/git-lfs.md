@@ -23,16 +23,14 @@ Galaxy Design uses Git LFS, an easy to setup and use tool for versioning design 
 git lfs install
 ```
 
-Learn more about **Git LFS** by visiting the [Git Large File Storage (LFS) website](https://git-lfs.github.com/)
-
-
-#### Install Git LFS (global)
+### Install Git LFS (global)
 
 In order to use Git LFS and install it on each of the repositories that you'd like to use Git LFS, you first have to execute a global Homebrew or MacPorts install.
 
 - Homebrew: `brew install git-lfs`
 - MacPorts: `port install git-lfs`
 
+Learn more about **Git LFS** by visiting the [Git Large File Storage (LFS) website](https://git-lfs.github.com/)
 
 ## Initialize Tracking
 
