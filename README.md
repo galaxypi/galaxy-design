@@ -11,10 +11,10 @@
     <br/>
     <a href="/docs/CONTRIBUTING.md">Contribute</a>
     &nbsp;&middot;&nbsp;
-    <a href="https://github.com/galaxypi/">Explore</a>
+    <a href="/docs/brand.me">Brand assets</a>
     &nbsp;&middot;&nbsp;
-    <a href="https://github.com/galaxypi/galaxy-growth/issues/new?template=issue-or-idea-report.md">
-    Report issue or idea</a>
+    <a href="https://github.com/galaxypi/galaxy-growth/issues/new?template=design-issue-or-idea-report.md">
+    Design issue or idea</a>
     &nbsp;&middot;&nbsp;
     <a href="https://discord.gg/36K9nan">Chat</a>
     <br/>
