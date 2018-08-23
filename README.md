@@ -40,10 +40,16 @@ Join us in the journey by becoming a design contributor
 ## Table of contents
 
 - [Status](#status)
-- [Install & Setup Git LFS](#install--setup-git-lfs)
-- [Brand](#brand)
-- [Quick Links](#quick-links)
+- [Quick start](#quick-start)
+- [Design issue or idea report](#design-issue-or-idea-report)
+- [Contributing](#contributing)
+- [Brand assets](#brand-assets)
 - [Open Source Design](#open-source-design)
+- [Roadmap](#roadmap)
+- [Community](#community)
+- [Repository maintainers](#repository-maintainers)
+- [License](#license)
+
 
 ## Status
 
