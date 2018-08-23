@@ -40,8 +40,8 @@ Join us in the journey by becoming a design contributor
 ## Table of contents
 
 - [Status](#status)
-- [Brand assets](#brand-assets)
 - [Quick start](#quick-start)
+- [Brand assets](#brand-assets)
 - [Design issue or idea report](#design-issue-or-idea-report)
 - [Contributing](#contributing)
 - [Brand guide](#brand-guide)
@@ -90,6 +90,14 @@ $ git lfs install
 
 Visit the [Getting started](/docs/getting-started.md) page for detailed instructions on how to install and use Git LFS.
 
+
+## Brand assets
+
+The following is a list of the current Galaxy brand assets. Always refer to this [brand standards guide](#brand-guide) for placement and usage. `NOTE: SVG logo's are located to the right of each example. Please use SVG's images.`
+
+  <a href="http://galaxy.ooo">
+    <img src="https://media.githubusercontent.com/media/galaxypi/galaxy-design/master/social/social-galaxy-logo-rounded.png" width=72 height=72>
+  </a>
 
 ## Roadmap
 
