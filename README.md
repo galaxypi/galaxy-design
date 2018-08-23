@@ -50,10 +50,6 @@ Join us in the journey by becoming a design contributor
 - [Repository maintainers](#repository-maintainers)
 - [License](#license)
 
-<div align="right">
-    <b><a href="#galaxy-design">^ back to top</a></b>
-</div>
-
 
 ## Status
 
@@ -83,10 +79,6 @@ Join us in the journey by becoming a design contributor
 [![Bootsketch version](https://img.shields.io/badge/Bootsketch-v1.4.0-blue.svg?colorA=212121&colorB=007BFF)](https://www.bootsketch.com/)
 [![px-rem-reference version](https://img.shields.io/badge/PX--REM_Reference-v1.2.2-blue.svg?colorA=212121&colorB=007BFF)](https://www.npmjs.com/package/px-rem-reference)
 
-<div align="right">
-    <b><a href="#galaxy-design">^ back to top</a></b>
-</div>
-
 
 ## Quick start
 
@@ -96,11 +88,7 @@ Install Git LFS
 $ git lfs install
 ```
 
-Visit the [Getting started](/docs/getting-started.md) page for detailed instructions on installing Git LFS and working with the Galaxy Design files.
-
-<div align="right">
-    <b><a href="#galaxy-design">^ back to top</a></b>
-</div>
+Visit the [Getting started](/docs/getting-started.md) page for detailed instructions on how to install and use Git LFS.
 
 
 ## Roadmap
@@ -122,10 +110,6 @@ by executing the following;
 
 View the detailed [Galaxy Roadmap page](https://github.com/galaxypi/galaxy/blob/master/docs/roadmap.md) _(galaxypi/galaxy/docs/roadmap.md)_ to learn more about project overview, goals, execution to date, milestones, current tech stack, and more...
 
-<div align="right">
-    <b><a href="#galaxy-design">^ back to top</a></b>
-</div>
-
 
 ## Community
 
@@ -138,19 +122,12 @@ Get updates on Galaxy's development and chat with the project maintainers and co
 
 For more details on how to get involved in the Galaxy Community visit the [Galaxy Community page](https://github.com/galaxypi/galaxy/blob/master/docs/community.md) _(galaxypi/galaxy/docs/community.md)_ and learn more about events, roadmap, weekly & daily scrum, past weekly community scrum calls, and more...
 
-<div align="right">
-    <b><a href="#galaxy-design">^ back to top</a></b>
-</div>
 
 ## Repository maintainers
 
 **Guy Lepage**, _Product, Design & Development_
 - <https://twitter.com/guylepage3>
 - <https://github.com/guylepage3>
-
-<div align="right">
-    <b><a href="#galaxy-design">^ back to top</a></b>
-</div>
 
 
 ## Open Source Design
