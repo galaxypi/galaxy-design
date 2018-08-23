@@ -96,7 +96,7 @@ Install Git LFS
 $ git lfs install
 ```
 
-For detailed instructions on on installing Git LFS and working with the Galaxy Design files, please visit the [Getting started](/docs/getting-started.md) page.
+Visit the [Getting started](/docs/getting-started.md) page for detailed instructions on installing Git LFS and working with the Galaxy Design files.
 
 <div align="right">
     <b><a href="#galaxy-design">^ back to top</a></b>
