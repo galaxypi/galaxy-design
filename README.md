@@ -79,12 +79,20 @@ Join us in the journey by becoming a design contributor
 [![Bootsketch version](https://img.shields.io/badge/Bootsketch-v1.4.0-blue.svg?colorA=212121&colorB=007BFF)](https://www.bootsketch.com/)
 [![px-rem-reference version](https://img.shields.io/badge/PX--REM_Reference-v1.2.2-blue.svg?colorA=212121&colorB=007BFF)](https://www.npmjs.com/package/px-rem-reference)
 
+<div align="right">
+    <b><a href="#galaxy-design">^ back to top</a></b>
+</div>
+
 
 ## Install & Setup Git LFS
 
 Galaxy Design uses Git LFS, an easy to setup and use tool for versioning design and large files. Follow the instructions in the link below to install & setup Git LFS in order to track files for contributing.
 
 [› Install & Setup Galaxy Design Git LFS](/docs/git-lfs.md)
+
+<div align="right">
+    <b><a href="#galaxy-design">^ back to top</a></b>
+</div>
 
 
 ## Roadmap
@@ -121,6 +129,16 @@ Get updates on Galaxy's development and chat with the project maintainers and co
 [› Galaxy Community page](https://github.com/galaxypi/galaxy/blob/master/docs/community.md) _(galaxypi/galaxy/docs/community.md)_
 
 For more details on how to get involved in the Galaxy Community visit the [Galaxy Community page](https://github.com/galaxypi/galaxy/blob/master/docs/community.md) _(galaxypi/galaxy/docs/community.md)_ and learn more about events, roadmap, weekly & daily scrum, past weekly community scrum calls, and more...
+
+<div align="right">
+    <b><a href="#galaxy-design">^ back to top</a></b>
+</div>
+
+## Repository maintainers
+
+**Guy Lepage**, _Product, Design & Development_
+- <https://twitter.com/guylepage3>
+- <https://github.com/guylepage3>
 
 <div align="right">
     <b><a href="#galaxy-design">^ back to top</a></b>
