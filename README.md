@@ -45,7 +45,6 @@ Join us in the journey by becoming a design contributor
 - [Design issue or idea report](#design-issue-or-idea-report)
 - [Contributing](#contributing)
 - [Brand guide](#brand-guide)
-- [Open Source Design](#open-source-design)
 - [Roadmap](#roadmap)
 - [Community](#community)
 - [Repository maintainers](#repository-maintainers)
