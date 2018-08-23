@@ -50,6 +50,10 @@ Join us in the journey by becoming a design contributor
 - [Repository maintainers](#repository-maintainers)
 - [License](#license)
 
+<div align="right">
+    <b><a href="#galaxy-design">^ back to top</a></b>
+</div>
+
 
 ## Status
 
@@ -84,11 +88,15 @@ Join us in the journey by becoming a design contributor
 </div>
 
 
-## Install & Setup Git LFS
+## Quick start
 
-Galaxy Design uses Git LFS, an easy to setup and use tool for versioning design and large files. Follow the instructions in the link below to install & setup Git LFS in order to track files for contributing.
+Install Git LFS
 
-[› Install & Setup Galaxy Design Git LFS](/docs/git-lfs.md)
+```
+$ git lfs install
+```
+
+For detailed instructions on on installing Git LFS and working with the Galaxy Design files, please visit the [Getting started](/docs/getting-started.md) page.
 
 <div align="right">
     <b><a href="#galaxy-design">^ back to top</a></b>
