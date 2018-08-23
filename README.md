@@ -40,10 +40,11 @@ Join us in the journey by becoming a design contributor
 ## Table of contents
 
 - [Status](#status)
+- [Brand assets](#brand-assets)
 - [Quick start](#quick-start)
 - [Design issue or idea report](#design-issue-or-idea-report)
 - [Contributing](#contributing)
-- [Brand assets](#brand-assets)
+- [Brand guide](#brand-guide)
 - [Open Source Design](#open-source-design)
 - [Roadmap](#roadmap)
 - [Community](#community)
