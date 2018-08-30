@@ -64,8 +64,8 @@ Join us in the journey by becoming a design contributor
 [![Galaxy Chat](https://img.shields.io/badge/Galaxy_Chat-Discord-purple.svg?colorA=212121&colorB=7289da)](https://discord.gg/36K9nan)
 
 [![Galaxy Open Source Design](https://img.shields.io/badge/Galaxy_Open_Source_Design-Process-pink.svg?colorA=212121&colorB=F700D6)](/docs/open-source-design.md)
-[![Galaxy Brand version](https://img.shields.io/badge/Galaxy_Brand-v0.0.5-pink.svg?colorA=212121&colorB=F700D6)](/brand/)
-[![Galaxy Logo version](https://img.shields.io/badge/Galaxy_Logo-v0.1.0-pink.svg?colorA=212121&colorB=F700D6)](/logo/)
+[![Galaxy Brand version](https://img.shields.io/badge/Galaxy_Brand-v1.0.0-pink.svg?colorA=212121&colorB=F700D6)](/brand/)
+[![Galaxy Logo version](https://img.shields.io/badge/Galaxy_Logo-v1.0.0-pink.svg?colorA=212121&colorB=F700D6)](/logo/)
 [![Galaxy.ooo Design version](https://img.shields.io/badge/Galaxy.ooo_Design-v1.0.8-pink.svg?colorA=212121&colorB=F700D6)](/galaxy.ooo/)
 [![Galaxy Illustrations](https://img.shields.io/badge/Galaxy-Illustrations-pink.svg?colorA=212121&colorB=F700D6)](/illustrations/)
 [![Galaxy Social](https://img.shields.io/badge/Galaxy-Social-pink.svg?colorA=212121&colorB=F700D6)](/social/)
