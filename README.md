@@ -3,8 +3,7 @@
   <h3 align="center">Galaxy Design</h3>
 
   <p align="center">
-    Galaxy is a network of decentralized nodes offering services for
-    decentralized platforms
+    Galaxy is a blockchain agnostic node network and protocol offering services to decentralized platforms
     <br/>
     <a href="http://galaxy.ooo"><strong>galaxy.ooo</strong></a>
     <br/>
@@ -105,19 +104,19 @@ View the detailed Galaxy Roadmap to see what's coming next.
 
 [› Galaxy Roadmap page](https://github.com/galaxypi/galaxy/blob/master/docs/roadmap.md) _(galaxypi/galaxy/docs/roadmap.md)_
 
-Galaxy's mission is to become the world's largest network of decentralized
-nodes offering services for decentralized platforms. We are looking to
-accomplish this by executing the following;
+Galaxy's mission is to become the world's largest blockchain agnostic, always on, node network and protocol offering services to decentralized platforms.
 
-- [ ] Building and maintaining the Galaxy blockchain.
+We are looking to accomplish this by executing the following;
+
+- [ ] Building and maintaining the Galaxy blockchain and protocol.
 - [ ] Designing and building beautiful modified tiny computers (Raspberry Pi) 
       as Galaxy nodes.
 - [ ] Providing an exceptional API, SDK and marketplace experience that allows
-      developers to easily access and build on top of the Galaxy node network.
+      developers to easily access and build on top of the Galaxy node network. 
 - [ ] A simple and easy node owner interface and incentive program to 
       incentivize node owners.
-- [ ] Provide the best experience for developers to quickly deploy apps and 
-      services to decentralized platforms.
+- [ ] Provide the best experience for developers to quickly deploy node 
+      modules, apps and services to decentralized platforms.
 
 View the detailed [Galaxy Roadmap page](https://github.com/galaxypi/galaxy/blob/master/docs/roadmap.md) _(galaxypi/galaxy/docs/roadmap.md)_ to learn more about project overview, goals, execution to date, milestones, current tech stack, and more...
 
