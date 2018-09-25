@@ -46,7 +46,6 @@ Join us in the journey by becoming a design contributor
 - [Brand guide](#brand-guide)
 - [Roadmap](#roadmap)
 - [Community](#community)
-- [Repository maintainers](#repository-maintainers)
 - [License](#license)
 
 
@@ -131,13 +130,6 @@ Get updates on Galaxy's development and chat with the project maintainers and co
 [› Galaxy Community page](https://github.com/galaxypi/galaxy/blob/master/docs/community.md) _(galaxypi/galaxy/docs/community.md)_
 
 For more details on how to get involved in the Galaxy Community visit the [Galaxy Community page](https://github.com/galaxypi/galaxy/blob/master/docs/community.md) _(galaxypi/galaxy/docs/community.md)_ and learn more about events, roadmap, weekly & daily scrum, past weekly community scrum calls, and more...
-
-
-## Repository maintainers
-
-**Guy Lepage**, _Product, Design & Development_
-- <https://twitter.com/guylepage3>
-- <https://github.com/guylepage3>
 
 
 ## Open Source Design
